@@ -52,6 +52,7 @@ export default function ProjectCard({ project }: { project: Project }) {
                     fontSize: '0.71rem',
                     color: 'var(--muted)',
                     lineHeight: 1.75,
+                    whiteSpace: 'pre-line',
                     flex: 1,
                     marginBottom: '1rem',
                 }}
