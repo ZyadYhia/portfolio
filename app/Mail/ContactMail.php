@@ -31,7 +31,6 @@ class ContactMail extends Mailable
         );
     }
 
-
     /**
      * Get the message content definition.
      */

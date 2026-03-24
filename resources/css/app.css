@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Syne:wght@400;700&display=swap');
-@import "tailwindcss";
+@import 'tailwindcss';
 
 @theme {
     --font-family-mono: 'IBM Plex Mono', monospace;
@@ -58,7 +58,6 @@ body {
 }
 
 @keyframes pulseDot {
-
     0%,
     100% {
         opacity: 1;
